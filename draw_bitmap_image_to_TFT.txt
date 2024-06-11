@@ -1,0 +1,3 @@
+1. Download image png/jpg with size 20x20 or any
+2. Access "https://marlinfw.org/tools/u8glib/converter.html" to convert image to hexa code
+3. Take hexa code and using syntax available for TFT Arduino
