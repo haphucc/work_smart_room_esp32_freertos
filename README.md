@@ -14,4 +14,4 @@ Embedded System Term 2 of 4th-year, learning about ESP32 using FreeRTOS with Ard
 ![alt text](https://github.com/haphucc/work_smart_room_esp32_freertos/blob/main/mo_hinh.jpg)
 
 # Hình ảnh hiển thị của TFT 1.8 inch
-![alt text](https://github.com/haphucc/work_smart_room_esp32_freertos/blob/main/mo_hinh.jpg)
+![alt text](https://github.com/haphucc/work_smart_room_esp32_freertos/blob/main/tft_display.jpg)
