@@ -9,3 +9,9 @@ Embedded System Term 2 of 4th-year, learning about ESP32 using FreeRTOS with Ard
 5. Sennsor Ultrasonic HC-SR04
 6. Servo SG90 with 180°
 7. Push buttons
+
+# Tổng quan mô hình giám sát phòng làm việc 
+![alt text](https://github.com/haphucc/work_smart_room_esp32_freertos/blob/main/mo_hinh.jpg)
+
+# Hình ảnh hiển thị của TFT 1.8 inch
+![alt text](https://github.com/haphucc/work_smart_room_esp32_freertos/blob/main/mo_hinh.jpg)
